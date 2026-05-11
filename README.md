@@ -1,2 +1,2 @@
 # hiero-verify-test
-test-12
+PARTIAL_VC_ONLY
